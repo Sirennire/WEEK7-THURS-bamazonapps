@@ -127,29 +127,3 @@ function addProduct(){
     });
   });
 }
-
-
-//
-// switch (answer.action) {
-//   case "Find songs by artist":
-//     artistSearch();
-//     break;
-//
-//   case "Find all artists who appear more than once":
-//     multiSearch();
-//     break;
-//
-//   case "Find data within a specific range":
-//     rangeSearch();
-//     break;
-//
-//   case "Search for a specific song":
-//     songSearch();
-//     break;
-//
-//   case "Find all artists who have an album and song in the same year":
-//     multiSearch2();
-//     break;
-// }
-// });
-// }
